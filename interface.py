@@ -77,11 +77,11 @@ class MenuInterface:
         self._renderizar_tabla(res)
 
     def _ordenar_edad(self):
-        res = self.manager.ordenar_por_edad()
+        res = self.manager.ordenar_por_edad_y_nombre()
         self._renderizar_tabla(res)
 
     def _buscar_email(self):
         val = self.entry_busqueda.get().strip()
-        res = self.manager.buscar_por_email(val)
-        self._renderizar_tabla(res )
+        res = self.manager.buscar_por_email_parcial(val)
+        self._renderizar_tabla(res)
         

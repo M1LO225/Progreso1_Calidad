@@ -1,0 +1,21 @@
+id,nombre,email,ciudad,edad,estado
+1,Ana García,ana.garcia@gmail.com,Quito,28,valido
+2,Carlos López,carlos.lopez@hotmail.com,Guayaquil,34,valido
+3,María Pérez,maria.perez@yahoo.com,Quito,22,valido
+4,Juan Rodríguez,juan.rodriguez@gmail.com,Cuenca,45,valido
+5,Laura Martínez,laura.m@outlook.com,Guayaquil,31,valido
+6,Pedro Sánchez,pedro.sanchez@gmail.com,Quito,27,valido
+7,Sofía Torres,sofia.torres@hotmail.com,Cuenca,19,valido
+8,Diego Ramírez,diego.ramirez@gmail.com,Guayaquil,38,valido
+9,Valeria Morales,valeria.m@yahoo.com,Quito,25,valido
+10,Andrés Flores,andres.flores@gmail.com,Ambato,52,valido
+11,Camila Herrera,camila.h@outlook.com,Guayaquil,29,valido
+12,Luis Vargas,luis.vargas@gmail.com,Quito,41,valido
+13,Gabriela Castro,gabi.castro@hotmail.com,Cuenca,36,valido
+14,Roberto Jiménez,roberto.j@gmail.com,Ambato,23,valido
+15,Daniela Reyes,daniela.reyes@yahoo.com,Guayaquil,44,valido
+16,Miguel Ángel Ruiz,miguelangel@gmail.com,Quito,30,invalido
+17,Patricia Mendoza,patricia.m@hotmail.com,Cuenca,37,invalido
+18,Registro Nulo,,Quito,20,valido
+19,Fernando Aguirre,fernando.a@gmail.com,Ambato,26,valido
+20,Isabella Vega,isabella.vega@outlook.com,Guayaquil,33,valido
